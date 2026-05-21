@@ -63,7 +63,7 @@ const Sidebar = () => {
                     }`}
             >
                 <Image
-                    src="https://s3-iventorymanagement.s3.eu-central-1.amazonaws.com/logo.png"
+                    src="https://2026-s3-inventorymanagement20.s3.eu-north-1.amazonaws.com/logo.png"
                     alt="logo"
                     width={25}
                     height={25}
